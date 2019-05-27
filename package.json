@@ -1,0 +1,25 @@
+{
+  "name": "case-converter",
+  "version": "1.0.0",
+  "description": "Case converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pravin-Parkhi/case-converter.git"
+  },
+  "keywords": [
+    "camelCase",
+    "snakeCase",
+    "upperCase",
+    "lowerCase"
+  ],
+  "author": "Pravin-Parkhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pravin-Parkhi/case-converter/issues"
+  },
+  "homepage": "https://github.com/Pravin-Parkhi/case-converter#readme"
+}
